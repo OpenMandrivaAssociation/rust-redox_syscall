@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.2.10
-Release:        1
+Release:        2
 Summary:        Rust library to access raw Redox system calls
 
 # Upstream license specification: MIT
