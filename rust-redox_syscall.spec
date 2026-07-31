@@ -4,8 +4,8 @@
 %global crate redox_syscall
 
 Name:           rust-%{crate}
-Version:        0.2.10
-Release:        2
+Version:        0.9.1
+Release:        1
 Summary:        Rust library to access raw Redox system calls
 
 # Upstream license specification: MIT
